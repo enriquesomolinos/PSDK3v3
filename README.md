@@ -17,6 +17,12 @@ psp2link [https://github.com/psxdev/psp2link]
 
 debugnet [https://github.com/psxdev/debugnet]
 
+sdl [https://github.com/xerpi/SDL-Vita]
+
+sdl_mixer [https://github.com/enriquesomolinos/SDL_mixer-Vita]
+
+sdl_image [https://github.com/enriquesomolinos/SDL_image-Vita]
+
 You'll need also Cmake for win32 if you want to compile cmake projects and git for windows if you want to clone them.
 
 ===
